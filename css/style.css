@@ -1,0 +1,41 @@
+.purple_c{
+    background-color: #6d016d;
+    color: #810081;
+}
+.btn{
+    background-color:  #810081;
+}
+.btn:hover{
+    background-color: #330133;
+    color: azure;
+}
+.slider .btn {
+  margin-top: 80px;
+}
+.slider .caption{
+    font-size: 14px;
+}
+
+.section-search input {
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 2px solid !important;
+}
+.section-search .btn{
+    margin-top: 35px;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+.section-gallery{
+    background-image: linear-gradient(to bottom  right, #d384d3 10% , #270027 80% , #934193 10%);
+}
+.section-gallery h4{
+    margin-top:60px;
+}
